@@ -1,0 +1,79 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+*.rsuser
+
+# IDE folders
+.vscode/
+.idea/
+*.swp
+
+# Visual Studio files
+*.dbmdl
+*.bak
+*.log
+*.ncb
+*.sdf
+*.cache
+*.opendb
+*.VC.db
+*.pdb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider JetBrains
+*.iml
+.idea/
+
+# Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Other
+launchSettings.json        # optional, if each dev uses different ports/URLs
+
+# Visual Studio cache, workspace, and version-specific files
+.vs/
+*.v12.suo
+*.v14.suo
+*.v15.suo
+*.v16.suo
+*.v17.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio manifests
+*.vsix
+*.vsixmanifest
+
+# Temporary files created by Visual Studio
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+*.pdb
